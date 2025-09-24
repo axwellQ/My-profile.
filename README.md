@@ -70,22 +70,23 @@
 
 ---
 
+```markdown
 ## 🚀 Мои проекты
 
-📁 meme_generator →
-   └── Python 
+📁 **meme_generator**  
+└── 🐍 Python
 
-📁 currency-converter-gui →
-   └── Python  
+📁 **currency-converter-gui**  
+└── 🐍 Python
 
-📁 weather-forecast-russia →
-   └── Python 
+📁 **weather-forecast-russia**  
+└── 🐍 Python
 
-📁 Calculator →
-   └── Python 
+📁 **Calculator**  
+└── 🐍 Python
 
-📁 farm →
-   └── C# 
+📁 **farm**  
+└── 🟦 C#
 ---
 
 ### 🔗 Полезные ссылки:
