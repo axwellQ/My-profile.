@@ -72,15 +72,24 @@
 
 ## 🚀 Мои проекты
 
-### 📂 Структура моего репозитория (как на фото):
+📁 meme_generator
+   └── Python 
 
-weather-forecast-russia/
-├── .gigaide/ # Кастомные модули (если используются)
-├── .idea/ # Конфигурация IDE (PyCharm)
-├── README.md # Этот файл — описание проекта
-├── Weather.iml # Файл проекта IntelliJ IDEA
-├── requirements.txt # Зависимости Python
-└── weather.py # Основной скрипт для получения погоды
+📁 My-profile
+   └── Public 
+
+📁 currency-converter-gui
+   └── Python 
+
+📁 weather-forecast-russia
+   └── Python 
+
+📁 Calculator
+   └── Python 
+
+📁 farm
+   └── C# 
+---
 
 ### 🔗 Полезные ссылки:
 
