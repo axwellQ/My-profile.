@@ -72,22 +72,19 @@
 
 ## 🚀 Мои проекты
 
-📁 meme_generator
+📁 meme_generator →
    └── Python 
 
-📁 My-profile
-   └── Public 
+📁 currency-converter-gui →
+   └── Python  
 
-📁 currency-converter-gui
+📁 weather-forecast-russia →
    └── Python 
 
-📁 weather-forecast-russia
+📁 Calculator →
    └── Python 
 
-📁 Calculator
-   └── Python 
-
-📁 farm
+📁 farm →
    └── C# 
 ---
 
